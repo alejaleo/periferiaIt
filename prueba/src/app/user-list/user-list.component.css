@@ -1,0 +1,51 @@
+
+.pTable{
+  padding: 2%;
+}
+.mCard{
+  margin: 1%;
+
+}
+.title{
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+}
+.mLoad{
+  width: 95%;
+}
+.mTitleCard{
+
+  margin-top: 1%;
+  margin-left: 2%;
+  margin-right: 1%;
+
+}
+.textAlert{
+  color: white;
+}
+.pTitle{
+  padding:0.5%
+}
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+.demo-table {
+  width: 100%;
+}
+
+.mat-mdc-row .mat-mdc-cell {
+  border-bottom: 1px solid transparent;
+  border-top: 1px solid transparent;
+  cursor: pointer;
+}
+
+.mat-mdc-row:hover .mat-mdc-cell {
+  border-color: currentColor;
+}
+
+.demo-row-is-clicked {
+  font-weight: bold;
+}
+
